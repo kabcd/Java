@@ -1,0 +1,4 @@
+PasagerE01#9#50#2#CardE01
+PasagerE02#1#30#5#CardE02
+PasagerE03#2#20#8#CardE03
+PasagerE04#19#35#6#CardE04

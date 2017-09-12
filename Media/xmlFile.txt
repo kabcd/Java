@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<store>
+    <listaAudio>
+        <audio>
+            <calitate>1000</calitate>
+        </audio>
+        <audio>
+            <calitate>2000</calitate>
+        </audio>
+        <audio>
+            <calitate>3000</calitate>
+        </audio>
+    </listaAudio>
+</store>

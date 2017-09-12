@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<store>
+    <listaTrenCargo>
+        <trenCargo>
+            <capacitateTransportKg>5500.0</capacitateTransportKg>
+            <serieMarfuri>[serie01, serie02, serie03]</serieMarfuri>
+        </trenCargo>
+        <trenCargo>
+            <capacitateTransportKg>4500.0</capacitateTransportKg>
+            <serieMarfuri>[Serie01, Serie02, Serie03, Serie04]</serieMarfuri>
+        </trenCargo>
+    </listaTrenCargo>
+</store>

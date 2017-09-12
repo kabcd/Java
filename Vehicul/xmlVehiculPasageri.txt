@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<store>
+    <listaVehiculPasageri>
+        <vehiculPasageri>
+            <cnpPasageri>[cnp01, cnp02, cnp03, cnp04]</cnpPasageri>
+            <nrLocuri>80.0</nrLocuri>
+        </vehiculPasageri>
+    </listaVehiculPasageri>
+</store>

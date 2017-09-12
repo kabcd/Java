@@ -1,0 +1,9 @@
+{"calitate":1000,"denumire":"Audio1","lungime":100}
+{"calitate":2000,"denumire":"Audio2","lungime":200}
+{"calitate":3000,"denumire":"Audio3","lungime":300}
+{"calitate":1000,"denumire":"Audio1","lungime":100}
+{"calitate":2000,"denumire":"Audio2","lungime":200}
+{"calitate":3000,"denumire":"Audio3","lungime":300}
+{"calitate":1000,"denumire":"Audio1","lungime":100}
+{"calitate":2000,"denumire":"Audio2","lungime":200}
+{"calitate":3000,"denumire":"Audio3","lungime":300}

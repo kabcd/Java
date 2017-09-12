@@ -1,0 +1,3 @@
+50#TitluM02#1#3#OperatorM
+20#TitluM01#2#3#OperatorM
+25#TitluM03#0#3#OperatorM
